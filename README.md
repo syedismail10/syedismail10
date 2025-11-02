@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @syedismail10
-- 👀 I’m interested in learning Full Stack Web Development and would love to have fellow coders collaborate on interesting project and guide me for my future
-- I have completed the traditional MERN stack and have made a sample project of a fully functioning E-commerce website using HTML,CSS,Bootstrap, React and MYSQL running on XAMPP server
-- 🌱 I’m currently learning Python and will slowly move towards Data Science and Artificial Intelligence
-- 💞️ I’m looking to collaborate on MERN based projects
+- 👀 I’m a Full Stack Developer currently managing Javascript frameworks and Python frameworks as my main area of expertise.
+- I have completed my Bachelor's from FAST-Karachi and have a keen interest towards building applications that scalable, practical and solve novel problems.
+- 💞️ I’m looking to learning more about AI-firendly workflows, actual AI-based use-cases and have few ideas in mind. 
 - 📫 How to reach me : syedismailulhaq@gmail.com
 
 <!---
